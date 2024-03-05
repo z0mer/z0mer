@@ -1,6 +1,6 @@
 <h1>Oi! Eu sou a Anna...</h1>
 
-- Estou atualmente estudando **UX**, mas já mexi com algumas linguagens, como **HTML, CSS, JavaScript, Python, C e Java**
+- Estou atualmente estudando **Assembly**, mas já mexi com algumas linguagens, como **HTML, CSS, JavaScript, Python, C e Java**
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Mi-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
