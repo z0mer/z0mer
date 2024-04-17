@@ -2,7 +2,7 @@
 
 <div align="center" />
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=MONTSERRAT&weight=100&size=25&pause=1000&color=7FFFD4&random=false&width=435&lines=Hey%2C+Anna+Carolina+here!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1000&color=7FFFD4&center=true&vCenter=true&random=false&width=435&lines=+Hey%2C+I'm+Anna+Carolina!;It's+great+to+have+you+here!)](https://git.io/typing-svg)
 
 </div>
 
