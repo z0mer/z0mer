@@ -12,7 +12,7 @@
   <a href="https://www.linkedin.com/in/z0mer/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-- 👋🏻 Hi, my name is Anna Carolina, I'm 19 years old and I'm in the 4th semester of Computer Science at FEI. ✨
+- 👋🏻 Hi, my name is Anna Carolina, I'm 19 years old and I'm in the 5th semester of Computer Science at FEI. ✨
 
 - 💻 I love working with Front-End, but I also venture into Back-End, always looking to learn something new. This space is not just about codes, but about the challenges I face in evolving as a programmer. 👾
 
