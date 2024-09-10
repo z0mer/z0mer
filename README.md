@@ -45,7 +45,7 @@
 
 ## 💻| Programming languages ​​I use most:
 <div>
-<img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=z0mer&layout=donut&title_color=eee3ee&text_color=eee3ee&icon_color=73007e&bg_color=0,73007e,73007e,4e0055,1e1e1f,2b2c30&locale=pt-br&hide_border=true&hide_title=true">
+<img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=z0mer&layout=donut&title_color=eee3ee&text_color=eee3ee&icon_color=73007e&bg_color=73C07E,66B27B,4C9675,327A6F,00345A&locale=pt-br&hide_border=true&hide_title=true">
 </div>
 
 <picture>
